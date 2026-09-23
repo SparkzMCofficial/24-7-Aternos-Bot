@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "AkiansSMP",
+    "username": "Server",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Akians.aternos.me",
-    "port": 21384,
+    "ip": "SparkzMC.aternos.me",
+    "port": 21903,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": "Server"
     },
     "anti-afk": {
       "enabled": true,
@@ -32,8 +32,7 @@
       "repeat-delay": 12000,
       "messages": [
         "I'm a regular player",
-        "Having Fun At Playing In This Smp?",
-        "Join AkiansSMP Discord Server : https://discord.gg/TWWnGpAY78"
+        "Having Fun At Playing In This Smp?"
       ]
     },
     "chat-log": true,
